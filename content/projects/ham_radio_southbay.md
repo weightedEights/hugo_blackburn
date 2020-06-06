@@ -1,5 +1,5 @@
 ---
-title: "Ham Radio Southbay"
+title: "Bay Area Ham Radio"
 date: 2019-05-31T12:19:21-07:00
 draft: true
 tags: ["radio", "amateur", "baofeng", "siliconvalley"]
