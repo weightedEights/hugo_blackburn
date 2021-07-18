@@ -78,14 +78,14 @@ paginate = 10
     respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.youtube]
