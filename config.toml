@@ -71,11 +71,11 @@ paginate = 10
 
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = false
-    respectDoNotTrack = false
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
     disable = false
@@ -90,4 +90,4 @@ paginate = 10
     simple = false
   [privacy.youtube]
     disable = false
-    privacyEnhanced = false
+    privacyEnhanced = true
