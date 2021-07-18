@@ -1,7 +1,7 @@
 ---
 title: "Daily Morning Exercise Routines"
 date: 2021-07-17T12:37:22-07:00
-draft: true
+draft: false
 tags: ["fitness", "bodyweight", "masculinity", "health"]
 topics: []
 description: "Building a morning routine that scales with your abilities and goals."
@@ -53,6 +53,16 @@ Add a skill goals if you want.
 
 ### Pistol Squat
 {{< youtube id="hHxm3VbuS-w" >}}
+
+
+### Planche Pushups
+
+{{< youtube id="ysOfGx3jFSs" >}}
+
+
+### DIY Conrete GYM (not bodyweight, but awesome)
+
+{{< youtube id="EGmYfHet0LU" >}}
 
 
 [1]: https://www.youtube.com/playlist?list=PLCKKWSxoHHKxIUEduN1COEZMb9FA9-NMc
