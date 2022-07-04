@@ -20,8 +20,7 @@ Described in detail at [Historynet.com][1]. The geographic scale of the swarm is
 
 A swarm larger than the state of California, taking 5 days to pass by. Unreal.  
 
-{{< fluid_imgs "pure-u-1 | /locusts-wheat.jpg | " >}}
+{{< fluid_imgs "pure-u-1 | /images/locusts-wheat.jpg" >}}
 
 
 [1]: https://www.historynet.com/1874-the-year-of-the-locust/
-[2]: /static/images/locusts-wheat.jpg
