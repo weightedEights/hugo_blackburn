@@ -20,5 +20,8 @@ Described in detail at [Historynet.com][1]. The geographic scale of the swarm is
 
 A swarm larger than the state of California, taking 5 days to pass by. Unreal.  
 
+![Locusts Eating Wheat][2]
+
 
 [1]: https://www.historynet.com/1874-the-year-of-the-locust/
+[2]: /img/locusts_wheat.jpg
