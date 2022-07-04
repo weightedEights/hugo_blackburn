@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Science Engineering - Misadventures and Coffee"
 theme = "blackburn"
 author = "J.Arndt"
-copyright = "Copyright Joshua Arndt 2021 &copy; All rights reserved."
+copyright = "Copyright Joshua Arndt 2022 &copy; All rights reserved."
 canonifyurls = true
 paginate = 10
 
