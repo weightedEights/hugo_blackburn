@@ -1,7 +1,7 @@
 ---
 title: "Unlinked One"
 date: 2022-07-04T15:17:48-07:00
-draft: true
+draft: false
 tags: []
 topics: []
 description: "Security Through Obscurity"
